@@ -1,0 +1,13 @@
+Approach,Theme,Avg_Precision,Avg_Recall,Avg_F1
+approach1,Personal Charisma,0.43,0.56,0.45
+approach1,Friendly Attitudes,0.01,0.03,0.02
+approach1,Service & Assistance,0.02,0.03,0.03
+approach1,Socialisation & Sharing,0.00,0.00,0.00
+approach2,Personal Charisma,0.37,0.46,0.39
+approach2,Friendly Attitudes,0.02,0.06,0.02
+approach2,Service & Assistance,0.07,0.09,0.08
+approach2,Socialisation & Sharing,0.04,0.06,0.05
+approach3,Personal Charisma,0.46,0.55,0.48
+approach3,Friendly Attitudes,0.03,0.07,0.04
+approach3,Service & Assistance,0.08,0.10,0.09
+approach3,Socialisation & Sharing,0.07,0.05,0.06

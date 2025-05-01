@@ -1,0 +1,595 @@
+===== APPROACH 1 RAW OUTPUT =====
+
+Host 1:
+Personal Charisma: "I am an author and health and fitness expert", "I have many interests from music to art and literature"
+Friendly Attitudes: "am happy to make suggestions and recommendations", "I guarantee you will thoroughly enjoy your stay here"
+
+Host 2:
+Personal Charisma: "My passion is creating beautiful, unique spaces", "I am a Sound Therapy Practitioner and Kundalini Yoga & Meditation teacher"
+Service & Assistance: "Any questions, please text or call Jennifer at 646.498.8710"
+
+Host 3:
+Personal Charisma: "NYC-based theater and comedy maker"
+
+Host 4:
+Personal Charisma: "I am an architect living in NYC", "have my own design firm Buro Koray Duman Architects"
+
+Host 5:
+Personal Charisma: "I am a dog lover, writer and editor who enjoys hosting visitors"
+
+Host 6:
+Personal Charisma: "I am a spirit-minded alternative health practitioner"
+
+Host 7:
+Personal Charisma: "I grew up in South Korea", "moved to Montreal, Canada", "presently work as a freelance interpreter and translator"
+Friendly Attitudes: "easy-going, friendly, tidy, respectful of others", "enthusiastic about meeting new people"
+
+Host 8:
+Personal Charisma: "I work with my family in the international art business", "used to travel often for shows"
+
+Host 9:
+Personal Charisma: "My husband and I are media professionals", "had a dream of buying and renovating a warehouse to work and live in with our daughter"
+Service & Assistance: "We really do know the neighborhood well", "We even do a monthly TV show about it called eHarlemTV"
+
+Host 10:
+Personal Charisma: "I am a video artist", "It is very much my home so I welcome responsible people who are happy to be here"
+Service & Assistance: "I am always reachable for any questions", "have friends in the neighborhood who are welcoming and available for any extra assistance"
+
+Host 11:
+Personal Charisma: "I am a former restaurant owner", "an active real estate professional"
+Friendly Attitudes: "I strive to be the perfect host"
+
+Host 12:
+Personal Charisma: "I am a jazz and classical flutist who enjoys hosting travelers from all parts of the globe"
+
+Host 13:
+Personal Charisma: "We are Simon and Allysa... erstwhile travelers living in New York City"
+
+Host 14:
+Personal Charisma: "Henry prides himself on offering superb accommodations", "an expression of Henry's meticulous approach to hosting and entertaining"
+
+Host 15:
+Personal Charisma: "I am french / peruvian and work in banking in NYC", "I often go on vacation and enjoy meeting new people, visiting new places and learning different cultures"
+
+Host 16:
+Personal Charisma: "I own a retail company", "work as a creative planner @JWT, freelance interior designer", "like to share experiences with other travellers and to meet people in general"
+
+Host 17:
+Personal Charisma: "As an artist I am very mobile", "usually, my roommate takes care of the apartment when I am away"
+
+Host 18:
+Personal Charisma: "I am a writer and quiltmaker", "your comfort really matters to me", "I work hard to make my home a welcoming space"
+
+Host 19:
+Personal Charisma: "I am a visual artist and professor", "My apartment is also my painting studio", "I love cooking for my friends"
+
+Host 20:
+Personal Charisma: "I'm a marketing consultant", "I truly enjoy helping guests experience NYC like a native New Yorker"
+
+Host 21:
+Personal Charisma: "We love to travel", "We love city life but we also love outdoor adventures"
+
+Host 22:
+Personal Charisma: "We love to cook and entertain", "our Brooklyn loft and Hudson Valley farmhouse reflect that open and welcoming vibe"
+
+Host 23:
+Personal Charisma: "My husband and I have been married since 1998", "We were determined to stay in 'the city' to raise our family"
+
+Host 24:
+Personal Charisma: "I am an experienced Super Host", "My family and I live in the building so we are always willing to assist guests when needed"
+
+Host 25:
+Personal Charisma: "I am from Peru of Croatian descent", "I like everything international, especially travel"
+
+Host 26:
+Personal Charisma: "I am a 32 year old male", "I enjoy spending time with my family and friends", "love to travel"
+
+Host 27:
+Personal Charisma: "I'm a relatively new host", "enjoy meeting new people and sharing a bit of what I love about NYC"
+
+Host 28:
+Personal Charisma: "I enjoy conversations with smart/funny/interesting/kind people", "I've lived in NYC for 4 years and loved every bit of it"
+
+Host 29:
+Personal Charisma: "I am an artist, ecologist, and educator", "I like to keep our home clean and colorful"
+
+Host 30:
+Personal Charisma: "I'm a New York local", "In my free time, I garden, kite board, and play basketball"
+
+Host 31:
+Personal Charisma: "I was born and raised in Kingston Jamaica", "I have a degree in Art Education and I currently work in Sales", "Traveling is my 2nd love"
+
+Host 32:
+Personal Charisma: "I like to consider myself a simple man with a plan to spread some peace along his journey", "Born and raised in NYC as host its my pleasure to share the big Apple's beauty with the rest of the World"
+
+Host 33:
+Personal Charisma: "I'm a brunch chef", "It's how I find balance"
+
+Host 34:
+Personal Charisma: "A likeable host who is more of a people person", "I see it imperative to serve all with a sense of respect and gratitude"
+
+Host 35:
+Personal Charisma: "After retiring from a career in law enforcement with NYPD and other agencies", "enjoy being hospitable to guests that want to experience NYC and the Bronx in particular"
+
+Host 36:
+Personal Charisma: "Born and raised in the Upper West Side of Manhattan", "I have worked on many of the popular TV Shows and Films filmed in the Heart of New York City"
+
+Host 37:
+Personal Charisma: "Day Habilitation Supervisor in the day, Music producer at night", "I am Dominican so I am fluent in Spanish and Im very respectful"
+
+Host 38:
+Personal Charisma: "Yulia was born and raised in Moscow, Russia; Amine was born and raised in Morocco", "We enjoy traveling, meeting new people and learn about new cultures"
+
+Host 39:
+Personal Charisma: "An easy going gentlemen involved in the interior design industry"
+
+Host 40:
+Personal Charisma: "I was formerly a philosophy and political science student", "I currently manage a warehouse in Long Island City", "I have had the privilege to have grown up, studied, and worked in and around New York City my entire life"
+
+Host 41:
+Personal Charisma: "I was born and raised in the suburbs in Minnesota", "I work in financial sales for a leading technology and news organization", "I love to travel and have been to 83 countries and counting"
+
+Host 42:
+Personal Charisma: "I was born and raised in the suburbs in Minnesota", "I work in financial sales for a leading technology and news organization", "I love to travel and have been to 83 countries and counting"
+
+Host 43:
+Personal Charisma: "I am a Spanish teacher also working on a PHD in Literature", "I like herbal medicine, yoga, Psychoanalysis, poetry, Jazz and classical music"
+
+Host 44:
+Personal Charisma: "I love everything travel related", "Also a big fan of hiking, learning new languages, meeting great people, and meditating"
+
+Host 45:
+Personal Charisma: "My wife and I recently moved to Long Island City", "We love good food and coffee"
+
+Host 46:
+Personal Charisma: "Solo traveler exploring the world"
+
+Host 47:
+Personal Charisma: "Fun loving, family oriented young professional who loves to travel"
+
+Host 48:
+Personal Charisma: "We live in Forest Hills, NYC", "We love Minimal, Understated, Modern style"
+
+Host 49:
+Personal Charisma: "We are originally from Japan", "We always listen to your need and do our best to respond to you as soon as possible"
+
+Host 50:
+Personal Charisma: "I believe life has a beautiful meaning and is a gift", "I appreciate every moment"
+
+Host 51:
+Personal Charisma: "We are a family that loves to travel around the world"
+
+Host 52:
+Personal Charisma: "Hi there! I'm a product designer residing in vibrant NYC", "I strive to create a welcoming and comfortable experience for my guests"
+
+Host 53:
+Personal Charisma: "New Yorker by chance, lover of Istanbul, and a Portuguese implant by choice"
+
+Host 54:
+Personal Charisma: "Business owner and enjoy traveling for leisure and business worldwide"
+
+Host 55:
+Personal Charisma: "I am an avid runner", "I love to spend private uncomplicated time with my wife and two college age children"
+
+Host 56:
+Personal Charisma: "My husband Vladimir and I are both retired", "We are respectful and quiet guests"
+
+Host 57:
+Personal Charisma: "Easy going, Clean & Friendly"
+
+Host 58:
+Personal Charisma: "I was formerly a philosophy and political science student", "I currently manage a warehouse in Long Island City"
+
+Host 59:
+Personal Charisma: "NYC-based Photographer with an appreciation for visual design"
+
+Host 60:
+Personal Charisma: "I personally keep my airbnb meticulously clean", "I love buying snacks and supplies for each guest to make your stay comfortable and carefree"
+
+===== APPROACH 2 RAW OUTPUT =====
+
+Host 1:
+Personal Charisma: "I am an author and health and fitness expert", "I have many interests from music to art and literature"
+Friendly Attitudes: "I am happy to make suggestions and recommendations", "I guarantee you will thoroughly enjoy your stay here!"
+
+Host 2:
+Personal Charisma: "My passion is creating beautiful, unique spaces where unforgettable memories are made", "I am a Sound Therapy Practitioner and Kundalini Yoga & Meditation teacher"
+Service & Assistance: "Any questions, please text or call Jennifer at 646.498.8710"
+
+Host 3:
+Personal Charisma: "NYC-based theater and comedy maker"
+
+Host 4:
+Personal Charisma: "I am an architect living in NYC and have my own design firm Buro Koray Duman Architects"
+
+Host 5:
+Personal Charisma: "I am a dog lover, writer and editor who enjoys hosting visitors"
+
+Host 6:
+Personal Charisma: "I am a spirit-minded alternative health practitioner"
+Socialisation & Sharing: "If you want to feel like a real New Yorker, this is a great space for that"
+
+Host 7:
+Personal Charisma: "I grew up in South Korea, moved to Montreal, Canada and have been a New Yorker for decades"
+Friendly Attitudes: "I am easy-going, friendly, tidy, respectful of others, responsive to guest's needs, and enthusiastic about meeting new people from all walks of life and all over the world!"
+
+Host 8:
+Service & Assistance: "I hope you find it as comfortable as I did", "I am always reachable for any questions"
+
+Host 9:
+Personal Charisma: "My husband and I are media professionals who had a dream of buying and renovating a warehouse to work and live in with our daughter", "We really do know the neighborhood well"
+Socialisation & Sharing: "We even do a monthly TV show about it called eHarlemTV"
+
+Host 10:
+Personal Charisma: "I am a video artist", "It is very much my home so I welcome responsible people who are happy to be here"
+Service & Assistance: "I am always reachable for any questions and have friends in the neighborhood who are welcoming and available for any extra assistance"
+
+Host 11:
+Personal Charisma: "I am a former restaurant owner and an active real estate professional"
+Service & Assistance: "I strive to be the perfect host"
+
+Host 12:
+Personal Charisma: "I am a jazz and classical flutist who enjoys hosting travelers from all parts of the globe"
+
+Host 13:
+Socialisation & Sharing: "We love sharing our spaces with like-minded travelers", "If you're visiting New York and want to see it as locals do, please don't hesitate to get in touch"
+
+Host 14:
+Personal Charisma: "Henry prides himself on offering superb accommodations", "Each home is an expression of Henry's meticulous approach to hosting and entertaining"
+
+Host 15:
+Personal Charisma: "I am french / peruvian and work in banking in NYC", "I would love to help you enjoy the city as much as possible"
+
+Host 16:
+Personal Charisma: "I like to share experiences with other travellers and to meet people in general"
+
+Host 17:
+Socialisation & Sharing: "Our guests have been so wonderful so far, and we are looking forward to meeting new people"
+
+Host 18:
+Personal Charisma: "I am a writer and quiltmaker", "Your comfort really matters to me"
+
+Host 19:
+Personal Charisma: "I am a visual artist and professor", "My apartment is also my painting studio, so enjoy the art on the walls"
+Socialisation & Sharing: "I love cooking for my friends so the apartment is built to be cozy and to be shared"
+
+Host 20:
+Personal Charisma: "I truly enjoy helping guests experience NYC like a native New Yorker", "Please be sure to check out my local guide for insider tips"
+
+Host 21:
+Personal Charisma: "We love to travel", "We love city life but we also love outdoor adventures"
+Service & Assistance: "We're happy to tell you where to find the best restaurants", "We can tell you where to find great salt water fishing"
+
+Host 22:
+Socialisation & Sharing: "When we're home, we love to cook and entertain", "Hopefully, our travel dates will coincide, and you can enjoy one of our homes while we're away!"
+
+Host 23:
+Personal Charisma: "My husband and I have been married since 1998 and have two amazing boys", "We were determined to stay in 'the city' to raise our family"
+Socialisation & Sharing: "This same feeling is what we offer our visitors when they come to Greenpoint"
+
+Host 24:
+Service & Assistance: "We are always willing to assist guests when needed", "We take pride in making all our guests as comfortable as possible"
+
+Host 25:
+Personal Charisma: "I am from Peru of Croatian descent, live in New York City, and work for the United Nations", "I like everything international, especially travel"
+
+Host 26:
+Personal Charisma: "I am a 32 year old male", "I love to travel"
+Service & Assistance: "As a host I will do everything in my ability to make you feel as comfortable as possible"
+
+Host 27:
+Personal Charisma: "I love to travel both domestically and internationally", "I enjoy dancing salsa and finding new restaurants and bars in NYC"
+
+Host 28:
+Personal Charisma: "I enjoy conversations with smart/funny/interesting/kind people", "I've lived in NYC for 4 years and loved every bit of it"
+
+Host 29:
+Personal Charisma: "I am an artist, ecologist, and educator", "We like to keep our home clean and colorful"
+
+Host 30:
+Service & Assistance: "I'm a New York local and happy to share recommendations with you", "Welcome to New York!"
+
+Host 31:
+Personal Charisma: "I was born and raised in Kingston Jamaica", "Traveling is my 2nd love"
+Socialisation & Sharing: "I want you to know the beauty of being 5 minutes out of the city"
+
+Host 32:
+Personal Charisma: "I like to consider myself a simple man with a plan to spread some peace along his journey", "As host its my pleasure to share the big Apple's beauty with the rest of the World"
+
+Host 33:
+Personal Charisma: "I'm a brunch chef", "It's how I find balance"
+Service & Assistance: "I hope to be in a home that's the same"
+
+Host 34:
+Friendly Attitudes: "Being in the hospitality business as concerns Airbnb, I see it imperative to serve all with a sense of respect and gratitude"
+
+Host 35:
+Personal Charisma: "After retiring from a career in law enforcement with NYPD and other agencies", "I enjoy being hospitable to guests that want to experience NYC and the Bronx in particular"
+
+Host 36:
+Personal Charisma: "Born and raised in the Upper West Side of Manhattan on Central Park West", "My interest in travel and tourism have provided me with the experience of hosting and accommodating different people and cultures from all over the world"
+
+Host 37:
+Personal Charisma: "Day Habilitation Supervisor in the day, Music producer at night", "I am a positive, laid back clean guy"
+
+Host 38:
+Personal Charisma: "We are a multinational family", "We enjoy traveling, meeting new people and learn about new cultures"
+Service & Assistance: "We are very serious about providing a fun, comfortable and enjoyable experience for all our guests"
+
+Host 39:
+Personal Charisma: "An easy going gentlemen involved in the interior design industry"
+
+Host 40:
+Personal Charisma: "I was formerly a philosophy and political science student", "I have had the privilege to have grown up, studied, and worked in and around New York City my entire life"
+Service & Assistance: "I coordinate with various renters in the area to share any extra space they might have to anyone that is interested in visiting"
+
+Host 41:
+Personal Charisma: "I was born and raised in the suburbs in Minnesota", "I love to travel and have been to 83 countries and counting"
+Service & Assistance: "I love the people I have met and being able to share my community with them"
+
+Host 42:
+Personal Charisma: "I'm a musician", "I've been finding I really enjoy renting out my space in New York to excited travelers"
+Socialisation & Sharing: "It excites me to be a small part of someone's experience in such an exciting city"
+
+Host 43:
+Personal Charisma: "I am a Spanish teacher also working on a PHD in Literature", "I like herbal medicine, yoga, Psychoanalysis, poetry, Jazz and classical music"
+
+Host 44:
+Personal Charisma: "I love everything travel related", "Also a big fan of hiking, learning new languages, meeting great people, and meditating"
+
+Host 45:
+Personal Charisma: "My wife and I recently moved to Long Island City and absolutely love it", "We love good food and coffee"
+Socialisation & Sharing: "We hope you love our place as much as we do!"
+
+Host 46:
+Personal Charisma: "Solo traveler exploring the world"
+
+Host 47:
+Personal Charisma: "Fun loving, family oriented young professional who loves to travel"
+
+Host 48:
+Personal Charisma: "We live in Forest Hills, NYC and are truly inspired by the people we live around", "We love Minimal, Understated, Modern style"
+Socialisation & Sharing: "It's important for us to tell a story with our home"
+
+Host 49:
+Personal Charisma: "We are originally from Japan :-) and now live in New York for a long time :)", "We always listen to your need and do our best to respond to you as soon as possible"
+
+Host 50:
+Personal Charisma: "I believe life has a beautiful meaning and is a gift", "I appreciate every moment and believe that how we choose to live our lives is our gift back"
+
+Host 51:
+Socialisation & Sharing: "We are a family that loves to travel around the world"
+
+Host 52:
+Personal Charisma: "I'm a product designer residing in vibrant NYC", "I strive to create a welcoming and comfortable experience for my guests"
+
+Host 53:
+Personal Charisma: "New Yorker by chance, lover of Istanbul, and a Portuguese implant by choice", "Now ready to share it with all its beauty with friends, family and guests"
+
+Host 54:
+Personal Charisma: "Business owner and enjoy traveling for leisure and business worldwide"
+
+Host 55:
+Personal Charisma: "I am an avid runner", "I love to spend private uncomplicated time with my wife and two college age children"
+
+Host 56:
+Personal Charisma: "My husband Vladimir and I are both retired", "We are respectful and quiet guests"
+
+Host 57:
+Friendly Attitudes: "Easy going, Clean & Friendly"
+
+Host 58:
+Service & Assistance: "We hope you will enjoy staying with us!"
+
+Host 59:
+Personal Charisma: "NYC-based Photographer with an appreciation for visual design", "Enjoys great food, soccer, and travel"
+
+Host 60:
+Service & Assistance: "I pride myself on my 5 star reviews", "Everyone says they never met an airbnb host like me that worries so much about the details"
+
+===== APPROACH 3 RAW OUTPUT =====
+
+Host 1:
+Personal Charisma: "I am an author and health and fitness expert", "I have many interests from music to art and literature"
+Friendly Attitudes: "happy to make suggestions and recommendations", "guarantee you will thoroughly enjoy your stay here"
+
+Host 2:
+Personal Charisma: "My passion is creating beautiful, unique spaces", "I am a Sound Therapy Practitioner and Kundalini Yoga & Meditation teacher"
+Service & Assistance: "Any questions, please text or call Jennifer at 646.498.8710"
+
+Host 3:
+Personal Charisma: NYC-based theater and comedy maker
+
+Host 4:
+Personal Charisma: "I am an architect living in NYC", "have my own design firm Buro Koray Duman Architects"
+
+Host 5:
+Personal Charisma: "I am a dog lover, writer and editor"
+
+Host 6:
+Personal Charisma: "I am a spirit-minded alternative health practitioner"
+
+Host 7:
+Personal Charisma: "I grew up in South Korea", "moved to Montreal, Canada", "presently work as a freelance interpreter and translator"
+Friendly Attitudes: "easy-going, friendly, tidy, respectful of others", "enthusiastic about meeting new people"
+
+Host 8:
+Personal Charisma: "I work with my family in the international art business", "used to travel often for shows"
+
+Host 9:
+Personal Charisma: "My husband and I are media professionals", "had a dream of buying and renovating a warehouse", "do a monthly TV show about it called eHarlemTV"
+
+Host 10:
+Personal Charisma: "I am a video artist", "have lived in NY for 28 years", "enjoy hosting visitors"
+Service & Assistance: "always reachable for any questions", "have friends in the neighborhood who are welcoming and available for any extra assistance"
+
+Host 11:
+Personal Charisma: "I am a former restaurant owner", "an active real estate professional"
+Friendly Attitudes: "strive to be a great host", "strive to be the perfect host"
+
+Host 12:
+Personal Charisma: "I am a jazz and classical flutist", "enjoys hosting travelers from all parts of the globe"
+
+Host 13:
+Personal Charisma: "We are Simon and Allysa... erstwhile travelers living in New York City"
+Friendly Attitudes: "love sharing our spaces with like-minded travelers", "try to make sure that our guests have a really fantastic visit to New York"
+
+Host 14:
+Personal Charisma: "Henry prides himself on offering superb accommodations", "was chief legal officer for NYC Law Department"
+Service & Assistance: "extends that privilege to his private clients"
+
+Host 15:
+Personal Charisma: "I am french / peruvian and work in banking in NYC", "I would love to help you enjoy the city as much as possible"
+
+Host 16:
+Personal Charisma: "I own a retail company", "work as a creative planner @JWT", "freelance interior designer"
+Socialisation & Sharing: "like to share experiences with other travellers and to meet people in general"
+
+Host 17:
+Personal Charisma: "As an artist I am very mobile", "have been happy doing Airbnb"
+Socialisation & Sharing: "looking forward to meeting new people"
+
+Host 18:
+Personal Charisma: "I am a writer and quiltmaker", "enjoy hosting", "your comfort really matters to me"
+Friendly Attitudes: "work hard to make my home a welcoming space"
+
+Host 19:
+Personal Charisma: "I am a visual artist and professor", "love cooking for my friends", "love staying connected to the people and cultures"
+Socialisation & Sharing: "built to be cozy and to be shared"
+
+Host 20:
+Personal Charisma: "I'm a marketing consultant", "truly enjoy helping guests experience NYC like a native New Yorker"
+Service & Assistance: "Please be sure to check out my local guide for insider tips"
+
+Host 21:
+Personal Charisma: "We love to travel", "love city life but also love outdoor adventures"
+Service & Assistance: "happy to tell you where to find the best restaurants", "tell you about wilderness canoeing on the Delaware river"
+
+Host 22:
+Personal Charisma: "We love to cook and entertain", "reflect that open and welcoming vibe"
+Socialisation & Sharing: "enjoy one of our homes while we're away"
+
+Host 23:
+Personal Charisma: "My husband and I have been married since 1998", "love to travel", "offer our visitors the local vibe of the surroundings"
+
+Host 24:
+Personal Charisma: "I am an experienced Super Host", "take pride in making all our guests as comfortable as possible"
+Service & Assistance: "always willing to assist guests when needed"
+
+Host 25:
+Personal Charisma: "I am from Peru of Croatian descent", "like everything international, especially travel"
+
+Host 26:
+Personal Charisma: "I am a 32 year old male", "enjoy spending time with my family and friends", "love to travel"
+Service & Assistance: "will do everything in my ability to make you feel as comfortable as possible"
+
+Host 27:
+Personal Charisma: "I love to travel both domestically and internationally", "enjoy meeting new people"
+Socialisation & Sharing: "enjoy sharing a bit of what I love about NYC, housing and sustainable design"
+
+Host 28:
+Personal Charisma: "enjoy conversations with smart/funny/interesting/kind people", "value honesty, kindness and ambitions"
+
+Host 29:
+Personal Charisma: "I am an artist, ecologist, and educator", "like to keep our home clean and colorful"
+
+Host 30:
+Personal Charisma: "I'm a New York local", "happy to share recommendations with you"
+Service & Assistance: "gardening, kite boarding, and playing basketball"
+
+Host 31:
+Personal Charisma: "I was born and raised in Kingston Jamaica", "have a degree in Art Education", "traveling is my 2nd love"
+
+Host 32:
+Personal Charisma: "I like to consider myself a simple man with a plan to spread some peace along his journey", "born and raised in NYC"
+Service & Assistance: "want you to know the beauty of being 5 minutes out of the city"
+
+Host 33:
+Personal Charisma: "I'm a brunch chef", "love quiet weekend getaways", "super neat and clean"
+
+Host 34:
+Friendly Attitudes: "serve all with a sense of respect and gratitude"
+
+Host 35:
+Personal Charisma: "enjoy being hospitable to guests that want to experience NYC and the Bronx in particular"
+
+Host 36:
+Personal Charisma: "Born and raised in the Upper West Side of Manhattan", "vast experience leading me to my career in film production"
+Socialisation & Sharing: "experience of hosting and accommodating different people and cultures from all over the world"
+
+Host 37:
+Personal Charisma: "Day Habilitation Supervisor in the day, Music producer at night", "positive, laid back clean guy"
+
+Host 38:
+Personal Charisma: "We are a multinational family", "very serious about providing a fun, comfortable and enjoyable experience for all our guests"
+
+Host 39:
+Personal Charisma: "An easy going gentlemen involved in the interior design industry"
+
+Host 40:
+Personal Charisma: "I was formerly a philosophy and political science student", "have intimate knowledge of this neighborhood and the Metropolitan area"
+
+Host 41:
+Personal Charisma: "I was born and raised in the suburbs in Minnesota", "a musician", "enjoy renting out my space in New York to excited travelers"
+
+Host 42:
+Personal Charisma: "I am a musician", "love traveling and seeing new places", "excites me to be a small part of someone's experience in such an exciting city"
+
+Host 43:
+Personal Charisma: "I am a Spanish teacher", "like herbal medicine, yoga, Psychoanalysis, poetry, Jazz and classical music"
+
+Host 44:
+Personal Charisma: "love everything travel related", "big fan of hiking, learning new languages, meeting great people, and meditating"
+
+Host 45:
+Personal Charisma: "My wife and I recently moved to Long Island City", "love good food and coffee"
+Service & Assistance: "hope you love our place as much as we do"
+
+Host 46:
+Personal Charisma: "Solo traveler exploring the world"
+
+Host 47:
+Personal Charisma: "Fun loving, family oriented young professional who loves to travel"
+
+Host 48:
+Personal Charisma: "We live in Forest Hills, NYC", "love Minimal, Understated, Modern style", "love to absorb nature and be inspired by its natural beauty"
+
+Host 49:
+Personal Charisma: "We are originally from Japan", "very happy to have you over to stay at our place for comfortable stay"
+
+Host 50:
+Personal Charisma: "I believe life has a beautiful meaning and is a gift", "appreciate every moment"
+
+Host 51:
+Personal Charisma: "We are a family that loves to travel around the world"
+
+Host 52:
+Personal Charisma: "I'm a product designer residing in vibrant NYC", "love exploring nature through hiking adventures"
+Service & Assistance: "strive to create a welcoming and comfortable experience for my guests"
+
+Host 53:
+Personal Charisma: "New Yorker by chance, lover of Istanbul, and a Portuguese implant by choice"
+Socialisation & Sharing: "ready to share it with all its beauty with friends, family and guests"
+
+Host 54:
+Personal Charisma: "Business owner and enjoy traveling for leisure and business worldwide"
+
+Host 55:
+Personal Charisma: "I am an avid runner", "love to spend private uncomplicated time with my wife and two college age children"
+
+Host 56:
+Personal Charisma: "My husband Vladimir and I are both retired", "respectful and quiet guests"
+
+Host 57:
+Personal Charisma: "Easy going, Clean & Friendly"
+
+Host 58:
+Personal Charisma: "I am a software developer", "like to do renovations"
+Service & Assistance: "hope you will enjoy staying with us"
+
+Host 59:
+Personal Charisma: "NYC-based Photographer with an appreciation for visual design", "enjoys great food, soccer, and travel"
+
+Host 60:
+Personal Charisma: "I personally keep my Airbnb meticulously clean", "love buying snacks and supplies for each guest to make your stay comfortable and carefree"
+Service & Assistance: "pride myself on my 5 star reviews", "worry so much about the details"
